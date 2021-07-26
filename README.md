@@ -1,4 +1,4 @@
-## Hey Profile Visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Profile Visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ---
 <h1 align="center">Hi 👋, I'm André Lourenço</h1>
 <h3 align="center">I'm a Fullstack Software Engineering currently living in Portugal <img src="https://www.svgrepo.com/show/241294/portugal.svg" width="30"/></h3>
