@@ -2,8 +2,6 @@
 <h1 align="center">I'm André Lourenço</h1>
 <h3 align="center">I'm a Fullstack Software Engineering currently living in Portugal <img src="https://www.svgrepo.com/show/241294/portugal.svg" width="30"/></h3>
 
----
-
 ## <h1 align="center">Wanna know more about me? Check my [website](https://aafl.netlify.app/)</h1>
 
 <h3 align="center">Languages and Tools I use in a daily base:</h3>
