@@ -1,12 +1,12 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Profile Visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Profile Visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h1 align="center">I'm André Lourenço</h1>
 <h3 align="center">I'm a Fullstack Software Engineering currently living in Portugal <img src="https://www.svgrepo.com/show/241294/portugal.svg" width="30"/></h3>
 
 ---
 
-## Wanna know more about me? Check my [website](https://aafl.netlify.app/)
+## <h1 align="center">Wanna know more about me? Check my [website](https://aafl.netlify.app/)</h1>
 
-<h3 align="left">Languages and Tools I use in a daily base:</h3>
+<h3 align="center">Languages and Tools I use in a daily base:</h3>
  
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
